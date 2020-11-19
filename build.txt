@@ -1,0 +1,3 @@
+displayName = Magic Cock Rings
+author = ScrotulentDev
+version = 0.1
